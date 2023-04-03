@@ -49,5 +49,3 @@ class ProductManager {
         return idExiste;
     }
 }
-
-
